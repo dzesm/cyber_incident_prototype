@@ -1,0 +1,16 @@
+Urgent: Verify Your Account
+
+Security Team <security@secure-login.com>
+
+Dear Customer,
+
+We detected unusual activity in your account.
+For your security, please verify your account information immediately.
+
+Click here to verify your account
+
+If you do not verify within 24 hours, your account will be suspended.
+
+Thank you,
+Security Team
+Secure Login

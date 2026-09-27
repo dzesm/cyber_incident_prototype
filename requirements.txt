@@ -1,0 +1,8 @@
+streamlit
+pytest
+transformers
+torch
+datasets
+scikit-learn
+pandas
+jiwer

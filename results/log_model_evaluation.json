@@ -1,0 +1,18 @@
+{
+    "dataset": "LogHub HDFS_v1 / HDFS_100k structured subset",
+    "total_blocks": 7940,
+    "normal_blocks": 7627,
+    "anomaly_blocks": 313,
+    "training_blocks": 5558,
+    "testing_blocks": 2382,
+    "normal_training_blocks": 5339,
+    "event_features": 18,
+    "accuracy": 0.9303106633081444,
+    "precision": 0.013513513513513514,
+    "recall": 0.010638297872340425,
+    "f1_score": 0.011904761904761904,
+    "true_negatives": 2215,
+    "false_positives": 73,
+    "false_negatives": 93,
+    "true_positives": 1
+}

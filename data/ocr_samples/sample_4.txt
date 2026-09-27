@@ -1,0 +1,16 @@
+Action Required: Verify Your Account
+
+Security Alert <alert@safe-verify.com>
+
+Dear User,
+
+We noticed a suspicious sign-in attempt from an unknown device.
+
+Please verify your account to secure your access.
+
+Verify your account here
+
+If you ignore this email, your account may be locked.
+
+Thank you,
+Security Alert Team

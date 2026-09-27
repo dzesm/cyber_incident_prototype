@@ -1,0 +1,58 @@
+{
+    "sample_count": 5,
+    "average_cer": 0.20915368353148237,
+    "average_wer": 0.46382561314049775,
+    "average_ocr_confidence": 0.6991525807627732,
+    "samples": [
+        {
+            "image": "sample_1.png",
+            "ground_truth": "Urgent: Verify Your Account\n\nSecurity Team <security@secure-login.com>\n\nDear Customer,\n\nWe detected unusual activity in your account.\nFor your security, please verify your account information immediately.\n\nClick here to verify your account\n\nIf you do not verify within 24 hours, your account will be suspended.\n\nThank you,\nSecurity Team\nSecure Login",
+            "extracted_text": "Urgent: Verify Your Account Security Team < securilyC secure-log ncom> 9.15 AM Dear Customer; We detected unusual activity in your account For your security: please verify your account information immediately: Click here t0 verify your account If you do not verify within 24 hours, your account will be suspended_ Thank you, Security Team Secure Login Reply Forward",
+            "ocr_confidence": 0.8329695842091426,
+            "cer": 0.13753581661891118,
+            "wer": 0.40425531914893614,
+            "phishing_classification": "Phishing",
+            "phishing_confidence": 0.9999291896820068
+        },
+        {
+            "image": "sample_2.png",
+            "ground_truth": "Important: Update Required\n\nAccount Support <support@acct-secure.net>\n\nHello,\n\nWe are updating our systems and need you to confirm your details.\n\nUpdate your account now\n\nIf you do not update within 48 hours, access to your account may be limited.\n\nThanks,\nAccount Support Team",
+            "extracted_text": "10.47 781 ( Important: Update Required Account Suppont *ppartedccl-cecrenh Kesteraai Joma Hello; We are updating our systems and need you t0 confirm your details. Update you_account noN If you do not update wthin 48 hours, access t0 your account may be Imited: Thanks; Account Support Team Reply Fontard",
+            "ocr_confidence": 0.5342144856060675,
+            "cer": 0.26714801444043323,
+            "wer": 0.4634146341463415,
+            "phishing_classification": "Phishing",
+            "phishing_confidence": 0.9997536540031433
+        },
+        {
+            "image": "sample_3.png",
+            "ground_truth": "Project Meeting Tomorrow\n\nJohn Smith <john.smith@company.com>\n\nHi Team,\n\nJust a reminder that we have our project meeting tomorrow at 10:00 AM in the main conference room.\n\nPlease review the attached agenda before the meeting.\n\nBest regards,\nJohn Smith\nProject Manager\n\nAgenda.pdf\n120 KB",
+            "extracted_text": "Project Meeting Tomorrow In dox John Smith cjohn smith \u20ac company com? 8.30 AM adme Hi Team, Just reminder that we have our project meeting tomorrow at 10.00 AM in the main conference room: Please review the attached agenda before the meeting_ Best regards; John Smith Project Manager Agenda pdf 120 KB Reply Forward",
+            "ocr_confidence": 0.7518224852895591,
+            "cer": 0.21254355400696864,
+            "wer": 0.575,
+            "phishing_classification": "Legitimate",
+            "phishing_confidence": 0.9997485280036926
+        },
+        {
+            "image": "sample_4.png",
+            "ground_truth": "Action Required: Verify Your Account\n\nSecurity Alert <alert@safe-verify.com>\n\nDear User,\n\nWe noticed a suspicious sign-in attempt from an unknown device.\n\nPlease verify your account to secure your access.\n\nVerify your account here\n\nIf you ignore this email, your account may be locked.\n\nThank you,\nSecurity Alert Team",
+            "extracted_text": "Action Required: Verify Your Account External Security Alert alerasale vertycom> 11.22PV toMC Dear User; We noticed suspicious sign-in attempt Irom an unknown device: verify your account t0 secure your access: Verify your account here If you ignore this email, your account may be locked Thank you; Security Alert Team Reply Fonward Please -",
+            "ocr_confidence": 0.7513254030618073,
+            "cer": 0.2555205047318612,
+            "wer": 0.41304347826086957,
+            "phishing_classification": "Phishing",
+            "phishing_confidence": 0.9999508857727051
+        },
+        {
+            "image": "sample_5.png",
+            "ground_truth": "Account Verification Needed\n\nVerification <verify@account-check.net>\n\nDear Member,\n\nYour account information is incomplete.\n\nPlease complete the verification process to continue using your account.\n\nComplete verification\n\nIf you do not complete verification within 24 hours, your account will be disabled.\n\nRegards,\nAccount Verification Team",
+            "extracted_text": "Account Verification Needed Jnbt Verfcation cverfy@account-checknet> 2IBFM Fome Dear Member; Your account information is incomplete Please complete the verification process t0 continue using your account Complete verfication Ifyou do not complete verification within 24 hours; your account will be disabled: Regards, Accouity Verfication Team Reply Forward",
+            "ocr_confidence": 0.6254309456472895,
+            "cer": 0.17302052785923755,
+            "wer": 0.4634146341463415,
+            "phishing_classification": "Phishing",
+            "phishing_confidence": 0.9999496936798096
+        }
+    ]
+}

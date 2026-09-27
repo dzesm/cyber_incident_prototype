@@ -1,0 +1,16 @@
+{
+    "dataset": "zefang-liu/phishing-email-dataset",
+    "dataset_total_rows": 18650,
+    "evaluation_sample_size": 500,
+    "random_state": 42,
+    "safe_emails_in_sample": 304,
+    "phishing_emails_in_sample": 196,
+    "accuracy": 0.978,
+    "precision": 0.9695431472081218,
+    "recall": 0.9744897959183674,
+    "f1_score": 0.9720101781170484,
+    "true_negatives": 298,
+    "false_positives": 6,
+    "false_negatives": 5,
+    "true_positives": 191
+}
