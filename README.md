@@ -138,4 +138,3 @@ Developed for:
 Project template:
 
 **Artificial Intelligence – Project Idea 4.1: Orchestrating AI Models to Achieve a Goal**
-```
